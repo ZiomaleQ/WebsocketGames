@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="UnoWS.commonMain" target="11" />
+      <module name="UnoWS.commonTest" target="11" />
+      <module name="UnoWS.jvmMain" target="11" />
+      <module name="UnoWS.jvmTest" target="11" />
+      <module name="untitled2.commonMain" target="11" />
+      <module name="untitled2.commonTest" target="11" />
+      <module name="untitled2.jvmMain" target="11" />
+      <module name="untitled2.jvmTest" target="11" />
+      <module name="WebsocketGames.commonMain" target="11" />
+      <module name="WebsocketGames.commonTest" target="11" />
+      <module name="WebsocketGames.jvmMain" target="11" />
+      <module name="WebsocketGames.jvmTest" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
