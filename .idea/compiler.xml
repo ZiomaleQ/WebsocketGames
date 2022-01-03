@@ -10,10 +10,6 @@
       <module name="untitled2.commonTest" target="11" />
       <module name="untitled2.jvmMain" target="11" />
       <module name="untitled2.jvmTest" target="11" />
-      <module name="WebsocketGames.commonMain" target="11" />
-      <module name="WebsocketGames.commonTest" target="11" />
-      <module name="WebsocketGames.jvmMain" target="11" />
-      <module name="WebsocketGames.jvmTest" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
